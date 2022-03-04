@@ -107,3 +107,10 @@ border-top: 1px solid #334;
     color: #ffff;
     border: crimson;
 }
+
+
+@media(max-width:479px){
+    .container .heading{
+        font-size: 2rem;
+    }
+}
